@@ -4,3 +4,6 @@ I created this UI to see how my agents work and perform tasks across many integr
 
 
 Intergred with my local AI,I can see that my project is fully working now. This helps me easily see what my agents have done.
+
+update: 
+ 1. Add more features for it.
